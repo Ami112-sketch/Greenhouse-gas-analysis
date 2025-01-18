@@ -1,7 +1,7 @@
-# Greenhouse-gases-analysis
+# Greenhouse-gas-analysis
 A Comparative Analysis of Differences in Global Emissions Databases 
 
-In the pursuit of addressing climate change, assessing the impacts of GHG on the climate system, and their implications, accurately measuring greenhouse gas emissions is vital. Comprehensive emissions data supports effective policy-making and strategic planning to mitigate climate change. This report presents an in-depth analysis of differences in emissions data between two prominent databases: the Community Emissions Data System (CEDS) and the Emissions Database for Global Atmospheric Research (EDGAR) which is contributing to the FOCI project. The study covers CH4, CO2, NMVOC, NH3, SO2, CO, and NOx in the agriculture sector focusing on key differences and their potential implications. 
+In the pursuit of addressing climate change, assessing the impacts of GHG on the climate system, and their implications, accurately measuring greenhouse gas emissions is vital. Comprehensive emissions data supports effective policy-making and strategic planning to mitigate climate change. This report presents an in-depth analysis of differences in emissions data between two prominent databases: the Community Emissions Data System (CEDS) and the Emissions Database for Global Atmospheric Research (EDGAR). The study covers CH4, CO2, NMVOC, NH3, SO2, CO, and NOx in the agriculture sector focusing on key differences and their potential implications. 
 
 Background 
 
